@@ -187,6 +187,3 @@ def delete_products(product_id):
 
     return "", status.HTTP_204_NO_CONTENT
 
-#
-# PLACE YOUR CODE TO DELETE A PRODUCT HERE
-#
